@@ -1,5 +1,6 @@
 package com.eazybytes.services;
 
+import com.eazybytes.interfaces.LogAspect;
 import com.eazybytes.model.Song;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.BeanDefinition;
@@ -26,6 +27,7 @@ public class VehicleServices {
         System.out.println("VehicleServices object is created.");
     }
 
+    @LogAspect
     public String playMusic(boolean vehicleStarted, Song song) {
 
         /*Instant start = Instant.now();
