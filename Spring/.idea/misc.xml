@@ -4,7 +4,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/demoproject/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject 2/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject 3/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject 4/pom.xml" />
@@ -21,7 +20,30 @@
         <option value="$PROJECT_DIR$/demoproject 16/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject 17/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject 170/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject/pom.xml" />
+        <option value="$PROJECT_DIR$/example_18/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demoproject 10/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 11/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 12/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 13/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 14/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 15/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 16/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 17/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 170/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 2/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 3/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 4/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 5/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 6/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 7/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject 9/pom.xml" />
+        <option value="$PROJECT_DIR$/demoproject/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">

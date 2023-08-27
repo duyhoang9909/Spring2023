@@ -6,27 +6,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="example15" />
-        <module name="example16" />
-        <module name="example13" />
-        <module name="example14" />
-        <module name="example11" />
-        <module name="example17 (1)" />
-        <module name="example12" />
-        <module name="example10" />
-        <module name="example7" />
-        <module name="example6" />
-        <module name="example9" />
-        <module name="example17 (2)" />
-        <module name="example3" />
-        <module name="example2" />
-        <module name="example5" />
-        <module name="example4" />
-        <module name="example1" />
+        <module name="example_18" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="example1" target="11" />
+      <module name="example10" target="11" />
+      <module name="example11" target="11" />
+      <module name="example12" target="11" />
+      <module name="example13" target="11" />
+      <module name="example14" target="11" />
+      <module name="example15" target="11" />
+      <module name="example16" target="11" />
       <module name="example17" target="11" />
+      <module name="example17 (1)" target="11" />
+      <module name="example17 (2)" target="11" />
+      <module name="example2" target="11" />
+      <module name="example3" target="11" />
+      <module name="example4" target="11" />
+      <module name="example5" target="11" />
+      <module name="example6" target="11" />
+      <module name="example7" target="11" />
+      <module name="example9" target="11" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="example_18" options="-parameters" />
+    </option>
   </component>
 </project>
