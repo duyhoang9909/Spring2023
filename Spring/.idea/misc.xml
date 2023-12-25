@@ -21,7 +21,10 @@
         <option value="$PROJECT_DIR$/demoproject 17/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject 170/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject/pom.xml" />
+        <option value="$PROJECT_DIR$/example_19/pom.xml" />
         <option value="$PROJECT_DIR$/example_18/pom.xml" />
+        <option value="$PROJECT_DIR$/example_20/pom.xml" />
+        <option value="$PROJECT_DIR$/example_21/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -43,10 +46,12 @@
         <option value="$PROJECT_DIR$/demoproject 7/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject 9/pom.xml" />
         <option value="$PROJECT_DIR$/demoproject/pom.xml" />
+        <option value="$PROJECT_DIR$/example_18/pom.xml" />
+        <option value="$PROJECT_DIR$/example_19/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
